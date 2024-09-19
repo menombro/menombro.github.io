@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://menombro.github.io/sitemap.html.gz
+Sitemap: https://menombro.github.io/app/sitemap.html.gz
+Sitemap: https://menombro.github.io/assets/sitemap.html.gz
+Sitemap: https://menombro.github.io/css/sitemap.html.gz
+Sitemap: https://menombro.github.io/data/sitemap.html.gz
+Sitemap: https://menombro.github.io/includes/sitemap.html.gz
+Sitemap: https://menombro.github.io/item/sitemap.html.gz
+Sitemap: https://menombro.github.io/src/sitemap.html.gz
